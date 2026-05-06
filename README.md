@@ -1,12 +1,6 @@
 # ¡Hola! Soy Oderay 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Frog.png" width="100" />
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxXG90X5S0/giphy.gif" width="200">
-</p>
+![Ranita Programando](https://media.tenor.com/4S2I_pZk87IAAAAC/tiny-green-frog-teeny-tiny-green-frog.gif)
 
 ### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 

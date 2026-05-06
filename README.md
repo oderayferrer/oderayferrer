@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Oderay 👋
 
-<!--
-**oderayferrer/oderayferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.tenor.com/R38pZ0iK0-8AAAAC/pepe-apu.gif" width="200px">
+</div>
 
-Here are some ideas to get you started:
+### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📘 Proyectos de la facu
+
+Voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
+
+### 📂 Segundo Año
+* [Parciales Resueltos Java](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP)

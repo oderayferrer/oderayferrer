@@ -1,6 +1,8 @@
 # ¡Hola! Soy Oderay 👋
 
-<div class="tenor-gif-embed" data-postid="23224138" data-share-method="host" data-aspect-ratio="1.04575" data-width="100%"><a href="https://tenor.com/view/tiny-green-frog-teeny-tiny-green-frog-frog-typing-angry-frog-gif-23224138">Tiny Green Frog Teeny Tiny Green Frog GIF</a>from <a href="https://tenor.com/search/tiny+green+frog-gifs">Tiny Green Frog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.tenor.com/4S2I_pZk87IAAAAC/tiny-green-frog-teeny-tiny-green-frog.gif" width="150px">
+</div>
 
 ### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 

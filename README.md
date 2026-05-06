@@ -13,4 +13,5 @@
 Voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
 
 ### 📂 Segundo Año
-* [Parciales Resueltos Java](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP)
+
+* [Algoritmos y Estructuras de Datos](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP/tree/main/Segundo%20A%C3%B1o/Algoritmos%20y%20Estructuras%20de%20Datos)

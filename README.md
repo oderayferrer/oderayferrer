@@ -10,7 +10,7 @@
 
 ## 📘 Proyectos de la facu
 
-Voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
+Acá voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
 
 ---
 

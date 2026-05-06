@@ -1,6 +1,8 @@
 # ¡Hola! Soy Oderay 👋
 
-![Ranita Programando](https://media.tenor.com/4S2I_pZk87IAAAAC/tiny-green-frog-teeny-tiny-green-frog.gif)
+<p align="center">
+  <img src="tiny-green-frog-teeny-tiny-green-frog.gif" width="200">
+</p>
 
 ### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 

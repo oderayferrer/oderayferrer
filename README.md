@@ -1,8 +1,8 @@
 # ¡Hola! Soy Oderay 👋
 
-<div align="center">
-  <img src="https://media.tenor.com/4S2I_pZk87IAAAAC/tiny-green-frog-teeny-tiny-green-frog.gif" width="150px">
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/4S2I_pZk87IAAAAC/tiny-green-frog-teeny-tiny-green-frog.gif" width="180">
+</p>
 
 ### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 

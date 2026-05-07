@@ -15,13 +15,13 @@ Acá voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
 ---
 
 ## ⚠️ Disclaimer
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Las resoluciones compartidas en este repositorio son de carácter personal. No representan necesariamente las soluciones oficiales de las cátedras. Úsalos como guía de estudio.
 
 ---
 
 ### 📂 Segundo Año
 
-* [Algoritmos y Estructuras de Datos]
+* #### Algoritmos y Estructuras de Datos
 * [Practicas de Parciales](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP/tree/main/Segundo%20A%C3%B1o/Algoritmos%20y%20Estructuras%20de%20Datos)
 * [Resoluciones de las practicas](https://github.com/oderayferrer/AYED-Practicas/tree/main)

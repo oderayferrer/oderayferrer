@@ -16,7 +16,7 @@ Acá voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
 
 ## ⚠️ Disclaimer
 > [!IMPORTANT]
-> Las resoluciones compartidas en este repositorio son de carácter personal. No representan necesariamente las soluciones oficiales de las cátedras. Úsalos como guía de estudio.
+> Las resoluciones compartidas en este repositorio son de carácter personal. No representan necesariamente las soluciones oficiales de las cátedras. 
 
 ---
 ### 📂 Primer Año

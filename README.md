@@ -6,6 +6,8 @@
 
 ### Estudiante de Analista Programador Universitario (UNLP) 🏛️ | Java Enthusiast ☕
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oderayferrer&layout=donut)](https://github.com/oderayferrer)
+
 ---
 
 ## 📘 Proyectos de la facu

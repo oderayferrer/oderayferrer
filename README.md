@@ -20,14 +20,14 @@ Acá voy subiendo los parciales y ejercicios que resuelvo en la UNLP.
 
 ---
 ### 📂 Primer Año
-* #### Taller de Programacion
- [Practicas de Parciales](https://github.com/oderayferrer/Taller-de-Programacion)
+ #### Taller de Programacion
+* [Practicas de Parciales](https://github.com/oderayferrer/Taller-de-Programacion)
 
 ### 📂 Segundo Año
 
-* #### Algoritmos y Estructuras de Datos
- [Practicas de Parciales](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP/tree/main/Segundo%20A%C3%B1o/Algoritmos%20y%20Estructuras%20de%20Datos)
- [Resoluciones de las practicas](https://github.com/oderayferrer/AYED-Practicas/tree/main)
+ #### Algoritmos y Estructuras de Datos
+* [Practicas de Parciales](https://github.com/oderayferrer/Mis-Parciales-Practica-UNLP/tree/main/Segundo%20A%C3%B1o/Algoritmos%20y%20Estructuras%20de%20Datos)
+* [Resoluciones de las practicas](https://github.com/oderayferrer/AYED-Practicas/tree/main)
 
-* #### Seminario de Lenguaje .NET
- [Trabajo Practico Final Fase 1](https://github.com/oderayferrer/Trabajo-Final-Parte1-.NET)
+ #### Seminario de Lenguaje .NET
+* [Trabajo Practico Final Fase 1](https://github.com/oderayferrer/Trabajo-Final-Parte1-.NET)
